@@ -77,6 +77,7 @@ const App = () => {
                 setIsEraser={setIsEraser}
                 clearAll={clearAll}
             />
+            <Footer />
         </>
     );
 }
