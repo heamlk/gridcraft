@@ -58,6 +58,7 @@ Experience GridCraft here: **[GridCraft Live](https://rohan-shridhar.github.io/g
 
 
 ## Repository Structure 📁
+```txt
 gridcraft/
 ├── src/                    # Source files (transpiled in-browser by Babel)
 │   ├── App.jsx             # Root component - state management & download logic
@@ -72,7 +73,7 @@ gridcraft/
 ├── index.css               # Global styles and grid layout
 ├── LICENSE                 # License file
 └── README.md               # Documentation
-
+````
 ## Technical Implementation 🔧
 
 - **React 18 (CDN)** - Loaded via unpkg, no build step required
