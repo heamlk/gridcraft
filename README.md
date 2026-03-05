@@ -121,10 +121,11 @@ This project uses React loaded directly from a CDN rather than a build tool setu
    git clone https://github.com/your-username/gridcraft.git
    cd gridcraft
   
-3. Create a feature branch
+3. **Create a feature branch
 
   ```bash
   git checkout -b feature/YourFeatureName
+  ```
 
 4. Make your changes
 
@@ -136,11 +137,13 @@ This project uses React loaded directly from a CDN rather than a build tool setu
   ```bash
   git add .
   git commit -m "Add: brief description of your changes"
+  ```
 
 6. Push to your fork
 
   ```bash
-  git push origin feature/YourFeatureName```
+  git push origin feature/YourFeatureName
+  ```
 
 7. Open a Pull Request
 
