@@ -153,8 +153,9 @@ This project uses React loaded directly from a CDN rather than a build tool setu
 Thanks to these amazing people who contributed ❤️
 
 <a href="https://github.com/Rohan-Shridhar/gridcraft/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Rohan-Shridhar/gridcraft" />
+  <img src="https://contrib.rocks/image?repo=Rohan-Shridhar/gridcraft"/>
 </a>
+
 
 ## Guidelines
 
